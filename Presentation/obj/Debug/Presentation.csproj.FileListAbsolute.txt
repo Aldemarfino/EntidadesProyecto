@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\bin\Debug\Presentation.exe
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.Form1.resources
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.exe
+C:\Users\Usuario\source\repos\TaskMaster\Presentation\obj\Debug\Presentation.pdb
