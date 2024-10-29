@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    public class Class1
+    internal interface IOperations<T>
     {
+        bool Add(T obj);
+        bool UpdateFile(List<T> list);
+        List<T> GetAll();
     }
 }

@@ -10,7 +10,7 @@ namespace ENTITY
     {
         public string FileName { get; set; }
         public string FilePath { get; set; }
-        public Task Task { get; set; }
+        public Proyect Proyect { get; set; }
 
         public Archive() { }
 

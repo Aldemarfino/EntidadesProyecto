@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL
+namespace ENTITY
 {
-    public class Class1
+    public static class Config
     {
+
+        public static string FILEUSER = "Usuarios.txt";
     }
 }

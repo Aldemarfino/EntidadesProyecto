@@ -17,10 +17,7 @@ namespace ENTITY
         public List<Task> Tasks { get; set; }
         public User User { get; set; }
 
-        public Proyect()
-        {
-            Tasks = new List<Task>();
-        }
+        public Proyect() {}
 
         public Proyect(int idProyect, string name, string description, DateTime startDate, DateTime endDate, string state)
         {
@@ -30,7 +27,6 @@ namespace ENTITY
             StartDate = startDate;
             EndDate = endDate;
             State = state;
-            Tasks = new List<Task>();
         }
     }
 }

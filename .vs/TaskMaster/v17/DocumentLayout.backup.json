@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\presentation\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\presentation\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\calendarevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\presentation\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\taskrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\taskrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\presentation\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\formsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\proyect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\entity\\proyect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\proyect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\presentation\\formmainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\formmainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B5B1E-0C3A-440E-8EBE-4FE078F4B7C0}|BLL\\BLL.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\bll\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B5B1E-0C3A-440E-8EBE-4FE078F4B7C0}|BLL\\BLL.csproj|solutionrelative:bll\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE54300-D428-4624-8A4A-EE5737E7360D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428B5B1E-0C3A-440E-8EBE-4FE078F4B7C0}|BLL\\BLL.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428B5B1E-0C3A-440E-8EBE-4FE078F4B7C0}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\archive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\dal\\proyectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|solutionrelative:dal\\proyectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\dal\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0D137A1-0C4C-4E1E-B6F8-4B816CFB6B19}|DAL\\DAL.csproj|solutionrelative:dal\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428B5B1E-0C3A-440E-8EBE-4FE078F4B7C0}|BLL\\BLL.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\bll\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428B5B1E-0C3A-440E-8EBE-4FE078F4B7C0}|BLL\\BLL.csproj|solutionrelative:bll\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|c:\\users\\usuario\\source\\repos\\taskmaster\\entity\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\reminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\taskrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\taskrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|C:\\Users\\Usuario\\source\\repos\\TaskMaster\\entity\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E282E016-E9AD-44B9-A042-AF3B2D0932F6}|ENTITY\\ENTITY.csproj|solutionrelative:entity\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,36 +86,151 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMainView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormMainView.cs",
+              "RelativeDocumentMoniker": "Presentation\\FormMainView.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormMainView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\FormMainView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:24:07.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSignup.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormSignup.cs",
+              "RelativeDocumentMoniker": "Presentation\\FormSignup.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormSignup.cs",
+              "RelativeToolTip": "Presentation\\FormSignup.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawC8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:04:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Presentation\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormLogin.cs*",
+              "RelativeToolTip": "Presentation\\FormLogin.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAEwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:53:49.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSignup.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormSignup.cs",
+              "RelativeDocumentMoniker": "Presentation\\FormSignup.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormSignup.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentation\\FormSignup.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:49:37.007Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:39:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProyectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\ProyectRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\ProyectRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\ProyectRepository.cs",
+              "RelativeToolTip": "DAL\\ProyectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:36:27.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Reminder.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Reminder.cs",
+              "RelativeDocumentMoniker": "ENTITY\\Reminder.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Reminder.cs",
+              "RelativeToolTip": "ENTITY\\Reminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:53:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Config.cs",
+              "RelativeDocumentMoniker": "ENTITY\\Config.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Config.cs",
+              "RelativeToolTip": "ENTITY\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:34:10.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\BLL\\IOperations.cs",
+              "RelativeDocumentMoniker": "BLL\\IOperations.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\BLL\\IOperations.cs",
+              "RelativeToolTip": "BLL\\IOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:25:18.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswDoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:56:59.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Archive.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Archive.cs",
               "RelativeDocumentMoniker": "ENTITY\\Archive.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Archive.cs",
               "RelativeToolTip": "ENTITY\\Archive.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T03:27:01.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CalendarEvent.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\CalendarEvent.cs",
-              "RelativeDocumentMoniker": "ENTITY\\CalendarEvent.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\CalendarEvent.cs",
-              "RelativeToolTip": "ENTITY\\CalendarEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T03:25:10.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Notification.cs",
               "RelativeDocumentMoniker": "ENTITY\\Notification.cs",
@@ -92,86 +243,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 17,
               "Title": "TaskRecord.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\TaskRecord.cs",
               "RelativeDocumentMoniker": "ENTITY\\TaskRecord.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\TaskRecord.cs",
               "RelativeToolTip": "ENTITY\\TaskRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T03:24:24.105Z"
+              "WhenOpened": "2024-10-16T03:24:24.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Task.cs",
               "RelativeDocumentMoniker": "ENTITY\\Task.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Task.cs",
               "RelativeToolTip": "ENTITY\\Task.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAACJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T03:17:30.872Z"
+              "WhenOpened": "2024-10-16T03:17:30.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Proyect.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Proyect.cs",
               "RelativeDocumentMoniker": "ENTITY\\Proyect.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\Proyect.cs",
               "RelativeToolTip": "ENTITY\\Proyect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T03:17:17.699Z"
+              "WhenOpened": "2024-10-16T03:17:17.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\User.cs",
               "RelativeDocumentMoniker": "ENTITY\\User.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\ENTITY\\User.cs",
               "RelativeToolTip": "ENTITY\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:57:56.236Z"
+              "WhenOpened": "2024-10-15T17:57:56.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\BLL\\UserLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\BLL\\UserLogic.cs",
+              "RelativeToolTip": "BLL\\UserLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:57:15.636Z"
+              "WhenOpened": "2024-10-15T17:57:15.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\DAL\\BaseRepository.cs",
+              "RelativeToolTip": "DAL\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:56:51.087Z"
+              "WhenOpened": "2024-10-15T17:56:51.087Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\Form1.cs",
-              "RelativeDocumentMoniker": "Presentation\\Form1.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Presentation\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Presentation\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\TaskMaster\\Presentation\\FormLogin.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Presentation\\FormLogin.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T17:56:21.443Z"
+              "WhenOpened": "2024-10-15T17:56:21.443Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

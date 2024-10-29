@@ -42,9 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Archive.cs" />
-    <Compile Include="CalendarEvent.cs" />
+    <Compile Include="Config.cs" />
     <Compile Include="Notification.cs" />
     <Compile Include="Proyect.cs" />
+    <Compile Include="Reminder.cs" />
     <Compile Include="Task.cs" />
     <Compile Include="TaskRecord.cs" />
     <Compile Include="User.cs" />

@@ -12,7 +12,7 @@ namespace ENTITY
         public DateTime ModificationDate { get; set; }
         public string PreviousState { get; set; }
         public string NewState { get; set; }
-        public Task Task { get; set; }
+        public Notification Notification { get; set; }
 
         public TaskRecord() { }
 

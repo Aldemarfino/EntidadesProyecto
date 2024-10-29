@@ -17,12 +17,12 @@ namespace ENTITY
         public string Priority { get; set; }
         public Proyect Proyect { get; set; }
         public List<TaskRecord> Record { get; set; }
-        public List<Archive> Archives { get; set; }
+        public User AssignedUser { get; set; }
+
 
         public Task()
         {
             Record = new List<TaskRecord>();
-            Archives = new List<Archive>();
         }
 
         public Task(int idTask, string title, string description, DateTime creationDate, DateTime deadline, string state, string priority)
@@ -35,7 +35,6 @@ namespace ENTITY
             State = state;
             Priority = priority;
             Record = new List<TaskRecord>();
-            Archives = new List<Archive>();
         }
     }
 }
